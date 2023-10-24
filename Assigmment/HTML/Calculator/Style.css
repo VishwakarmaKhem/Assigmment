@@ -1,0 +1,39 @@
+#calculator {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid black;
+    background-color: peachpuff;
+    padding: 0;
+    
+  }
+  
+  #display {
+    width: 59%;
+    height: 45px ;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 20px;
+    border-color: black;
+  }
+  
+  button {
+    width: 70px;
+    height: 70px;
+    font-size: 20px;
+    margin: 2px;
+    cursor: pointer;
+    background-color:black;
+    color: white;
+  }
+  
+  .operator{
+    background-color: grey;
+    border-color: grey;
+    color: black;
+  }
+
+  .allClearButton{
+    background-color: aqua;
+    color: black;
+  }
